@@ -3,7 +3,7 @@ package com.vinod.algos;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World this is Vinod");
+		System.out.println("Hello World!");
 	}
 	
 }
